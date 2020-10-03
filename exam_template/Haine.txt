@@ -1,0 +1,8 @@
+Pantalon,vara,100,10,200
+Pantalon,toamna,130,20,500
+Pantalon,iarna,150,15,125
+Veston,vara,150,150,300
+Veston,toamna,125,0,400
+Costum,vara,50,4,100
+Costum,iarna,75,75,225
+Costum,toamna,100,30,100

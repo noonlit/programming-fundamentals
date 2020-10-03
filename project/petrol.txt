@@ -1,0 +1,84 @@
+Czech Republic,131300
+Cuba,160000
+Jordan,59440
+Serbia,31730
+Austria,173900
+Senegal,15560
+Myanmar,40
+Taiwan,841300
+China,8400000
+Nicaragua,13580
+Australia,461900
+Jamaica,24160
+Italy,1346000
+Zambia,14340
+South Africa,414000
+Latvia,140
+Cameroon,31960
+Egypt,80000
+Indonesia,391800
+Japan,3147000
+Netherlands,1204000
+SriLanka,32520
+Sweden,352300
+US Virgin Islands,4493
+Brazil,344900
+Dominican Republic,26500
+United Kingdom,1221000
+Russia,29650
+Albania,3440
+El Salvador,9940
+Denmark,99690
+Tunisia,22120
+Bangladesh,25320
+Iran,28140
+Aruba,229000
+Portugal,282400
+United States,7900000
+Belarus,433400
+Uzbekistan,340
+Thailand,898000
+Ukraine,33020
+India,5123000
+Bosnia and Herzegovina,20040
+Argentina,100
+Israel,275600
+Turkey,379600
+Ireland,66490
+New Zealand,101200
+Slovakia,117600
+Uruguay,40880
+Mexico,9884
+Hungary,115300
+Côte d'Ivoire,72860
+Switzerland,101400
+Germany,1830000
+Spain,1224000
+Lithuania,181900
+Ghana,24200
+Macedonia,146
+Poland,467400
+Greece,468000
+North Korea,70000
+Croatia,37300
+Philippines,1503000
+Belgium,618400
+SouthKorea,2949000
+Peru,110600
+Trinidad and Tobago,59180
+Romania,104900
+Bulgaria,128100
+Kazakhstan,118400
+Malaysia,200200
+Finland,236000
+Papua New Guinea,14880
+Bahrain,243300
+France,1129000
+Chile,186900
+Kenya,19830
+Norway,37080
+Algeria,5900
+Morocco,148500
+Canada,700000
+Pakistan,372800
+Singapore,976100

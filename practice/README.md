@@ -1,0 +1,26 @@
+### https://drive.google.com/file/d/1E-8UVhiF-GLXWzyii3E-XHPoJ7CXbnCP/view?usp=drive_open
+
+- 1: PythagoreanTriples.java
+- 2 && 3: ~ done as part of DS class problems ~
+- 4: FriendlyNumbers.java
+- 5: TriangleCoordinates.java
+- 6: MinMaxPositions.java
+- 7: ~ done as homework ~
+- 8:
+- 9:
+- 10:
+- 11: Set.java
+- 12:
+- 13:
+- 14:
+- 15: 
+- 16:
+- 17:
+- 18:
+- 19:
+- 20:
+- 21:
+- 22:
+- 23:
+- 24:
+- 25:

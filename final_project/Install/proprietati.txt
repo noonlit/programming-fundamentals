@@ -1,0 +1,12 @@
+CVM16A2,casa vacanta,3,Micro 16,strada A nr. 2,300
+CVM20B21,casa vacanta,2,Micro 20,strada B nr. 21,250
+AM1A3,apartament,1,Mazeppa 1,strada A nr. 3,200
+AM1A4,apartament,3,Mazeppa 1,strada A nr. 4,680
+AM2C2,apartament,1,Mazeppa 2,strada C nr. 2,175
+AM2Q12,apartament,4,Mazeppa 2,strada Q nr. 12,800
+AM2R12,apartament,2,Mazeppa 2,strada R nr. 19,430
+AM2T12,apartament,2,Mazeppa 2,strada T nr. 14,420
+CVM20A21,casa vacanta,2,Micro 12,strada A nr. 1,250
+CVM20C21,casa vacanta,3,Micro 13,strada C nr. 11,350
+CVM20D21,casa vacanta,2,Micro 15,strada D nr. 2,250
+AM2S12,apartament,1,Mazeppa 2,strada S nr. 15,210
